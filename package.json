@@ -22,6 +22,9 @@
         "progressive",
         "on-demand"
     ],
+    "publishConfig": {
+        "access": "public"
+    },
     "author": "donnercody (valcol before)",
     "license": "MIT",
     "bugs": {
