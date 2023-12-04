@@ -1,7 +1,7 @@
 {
     "name": "react-hydration-on-demand",
     "version": "2.1.0",
-    "description": "Hydrate your React components only when you need to",
+    "description": "Hydrate your React components only when you need to (with react 18+)",
     "main": "dist/index.js",
     "files": [
         "/dist"
